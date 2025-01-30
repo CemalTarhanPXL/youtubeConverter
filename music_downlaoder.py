@@ -26,3 +26,5 @@ while True:
         option = int(input('Als je nog iets wilt downloaden druk op 1 en enter. Als je wilt sluiten druk op 0 en enter.(Kies 1 of 0 )'))
         if option == 0:
             break
+        if option == 1:
+            continue
